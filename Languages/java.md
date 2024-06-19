@@ -1,7 +1,3 @@
-# Java Cheatsheet
-
-## 1. Primitive Data Types
-### Integer Types
 ```java
 byte b = 10;      // 8-bit signed integer
 short s = 20;     // 16-bit signed integer

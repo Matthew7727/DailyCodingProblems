@@ -1,13 +1,3 @@
-# Python Cheatsheet
-
-## 1. Numbers
-### Integers
-Whole numbers, e.g., `5`, `-3`
-
-### Floats
-Decimal numbers, e.g., `3.14`, `-0.001`
-
-### Common Methods/Operations
 ```python
 # Arithmetic
 a + b      # Addition
