@@ -1,4 +1,4 @@
-public class Solution {
+public class solution {
 
     public static int countIntersections(int[] P, int[] Q) {
         int n = P.length;
