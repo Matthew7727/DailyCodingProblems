@@ -1,5 +1,3 @@
-import javafx.util.StringConverter;
-
 /**
  * solution
  * 
