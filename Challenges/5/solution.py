@@ -24,7 +24,6 @@ def look_and_say(n):
                     currentDigit = currentNthTerm[i]
                     count = 1
             i += 1
-        
         print(x, nthTerm)
         x += 1
         
