@@ -15,10 +15,7 @@ def look_and_say(n):
             if x == 1:
                 nthTerm = '1'
             elif i == len(currentNthTerm):
-                if count != 0:
-                    nthTerm = nthTerm + str(count) + currentDigit
-                else:
-                    nthTerm = nthTerm + currentDigit
+                nthTerm = nthTerm + str(count) + currentDigit
             else:
                 if currentDigit == currentNthTerm[i]:
                     count += 1
