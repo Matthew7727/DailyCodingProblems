@@ -1,7 +1,3 @@
-/**
- * solution
- * 1315
- */
 public class solution {
 
     public static void lookAndSay(int n) {
